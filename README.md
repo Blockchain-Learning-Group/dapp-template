@@ -16,7 +16,7 @@ $ testrpc
 dapp-template $ truffle migrate --reset
 ```
 
-4. Update the contract address in home.js, line 5
+4. Update the contract address in app/client/home.js, line 5
 ```
 const contractAddress = '0x06f79f557ebdf223b7d088edb10ddd44d304ac4c'
 ```
