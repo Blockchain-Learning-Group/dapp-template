@@ -27,4 +27,4 @@ dapp-template $ cd app
 app $ node server
 ```
 
-6. Load the app, localhost:9191
+6. Load the app, [http://localhost:9191/](http://localhost:9191/)
